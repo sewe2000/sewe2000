@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **archdevx7d6@sewe-hub.xyz**
 
-- ⚡ Fun fact **I use Artix btw.**
+- ⚡ Fun fact **I use Artix btw and I'm a firefox contributor ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
