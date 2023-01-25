@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sewe2000" alt="sewe2000" /></a> </p>
 
-- 🔭 I’m currently working on [opentimer](https://github.com/sewe2000/opentimer)
+- 🔭 I’m currently working on [muj-elektryk-backend](https://github.com/Muj-Elektryk/muj-elektryk-backend) and my [blog](https://git.sevedev.com/sewe2000/blog)
 
-- 🌱 I’m currently learning **OpenGL, JavaScript, CSS, Godot Engine, PHP**
+- 🌱 I’m currently learning **Symfony, PHP, TypeScript, NestJS**
 
 - 👯 I’m looking to collaborate on [Linux](https://github.com/torvalds/linux)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sewe2000?tab=repositories](https://github.com/sewe2000?tab=repositories)
 
-- 📝 I regularly write articles on [https://sewe-hub.xyz](https://sewe-hub.xyz)
+- 📝 I regularly write articles on [sevedev](https://sevedev.com)
 
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me **archdevx7d6@sewe-hub.xyz**
+- 📫 How to reach me **s3vdev@proton.me**
 
-- ⚡ Fun fact **I use Artix btw and I'm a firefox contributor ;)**
+- ⚡ Fun fact **I use Arch btw and I'm a firefox contributor ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
