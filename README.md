@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sewe2000" alt="sewe2000" /></a> </p>
 
-- 🔭 I’m currently working on [muj-elektryk-backend](https://github.com/Muj-Elektryk/muj-elektryk-backend) and my [blog](https://git.sevedev.com/sewe2000/blog)
+- 🔭 I’m currently working on my [blog](https://git.sevedev.com/sewe2000/symfony-blog)
 
-- 🌱 I’m currently learning **Symfony, PHP, TypeScript, NestJS**
+- 🌱 I’m currently learning **Docker and Symfony**
 
 - 👯 I’m looking to collaborate on [Linux](https://github.com/torvalds/linux)
 
