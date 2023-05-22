@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my [blog](https://git.sevedev.com/sewe2000/symfony-blog)
 
-- 🌱 I’m currently learning **Docker and Symfony**
+- 🌱 I’m currently learning **Assembly, Algorithms and Data Structures**
 
 - 👯 I’m looking to collaborate on [Linux](https://github.com/torvalds/linux)
 
